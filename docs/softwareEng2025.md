@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Software Eng. lecture note"
-permalink: /docs/softwareEng2025/
+permalink: /softwareEng2025/
 ---
 # 第1回から第6回までのまとめ
 
